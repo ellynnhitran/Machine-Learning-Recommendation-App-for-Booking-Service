@@ -7,6 +7,7 @@ This app is a solution for Corporate Challenge from Developer Circles Vietnam In
 
 The challenge is from Dinogo, an online travel application and hotel is their top prioritized focus in 2020. With thousands of hotels can be booked for every destination, this can be an overwhelming task for customers. Therefore, Dinogo needs a personalized hotel booking system for its users.
 
+
 ​
 2. About product:​
 
@@ -16,6 +17,7 @@ The recommendation system provides the best experience for customers in hotel bo
 
 ​As I signed the NDA with the company, I could not reveal the code & data I tackled & handled. However, you could watch the video demo on the right & the pitch deck that we presented.
 ​
+
 
 3. Achievements:
 
